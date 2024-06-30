@@ -1,1 +1,1 @@
-# shebang
+shell scripts to automate 
